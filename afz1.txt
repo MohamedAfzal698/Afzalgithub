@@ -1,0 +1,1 @@
+creates afz1.txt file
